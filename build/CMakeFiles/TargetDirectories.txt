@@ -1,0 +1,3 @@
+/home/ruslan/work/VSCodeProjects/RiccatiSolver/build/CMakeFiles/controlsystem.dir
+/home/ruslan/work/VSCodeProjects/RiccatiSolver/build/CMakeFiles/edit_cache.dir
+/home/ruslan/work/VSCodeProjects/RiccatiSolver/build/CMakeFiles/rebuild_cache.dir

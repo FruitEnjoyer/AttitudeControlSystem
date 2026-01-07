@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/controlsystem.dir/src/main.cpp.o CMakeFiles/controlsystem.dir/src/solver.cpp.o CMakeFiles/controlsystem.dir/src/reactionalwheel.cpp.o CMakeFiles/controlsystem.dir/src/reactionalsystem.cpp.o -o controlsystem 

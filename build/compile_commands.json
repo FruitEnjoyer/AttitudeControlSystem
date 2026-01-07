@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/ruslan/work/VSCodeProjects/RiccatiSolver/build",
+  "command": "/usr/bin/g++  -I/home/ruslan/work/libs/eigen -I/home/ruslan/work/VSCodeProjects/RiccatiSolver/src -g -std=gnu++14 -o CMakeFiles/controlsystem.dir/src/main.cpp.o -c /home/ruslan/work/VSCodeProjects/RiccatiSolver/src/main.cpp",
+  "file": "/home/ruslan/work/VSCodeProjects/RiccatiSolver/src/main.cpp",
+  "output": "CMakeFiles/controlsystem.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/ruslan/work/VSCodeProjects/RiccatiSolver/build",
+  "command": "/usr/bin/g++  -I/home/ruslan/work/libs/eigen -I/home/ruslan/work/VSCodeProjects/RiccatiSolver/src -g -std=gnu++14 -o CMakeFiles/controlsystem.dir/src/solver.cpp.o -c /home/ruslan/work/VSCodeProjects/RiccatiSolver/src/solver.cpp",
+  "file": "/home/ruslan/work/VSCodeProjects/RiccatiSolver/src/solver.cpp",
+  "output": "CMakeFiles/controlsystem.dir/src/solver.cpp.o"
+},
+{
+  "directory": "/home/ruslan/work/VSCodeProjects/RiccatiSolver/build",
+  "command": "/usr/bin/g++  -I/home/ruslan/work/libs/eigen -I/home/ruslan/work/VSCodeProjects/RiccatiSolver/src -g -std=gnu++14 -o CMakeFiles/controlsystem.dir/src/reactionalwheel.cpp.o -c /home/ruslan/work/VSCodeProjects/RiccatiSolver/src/reactionalwheel.cpp",
+  "file": "/home/ruslan/work/VSCodeProjects/RiccatiSolver/src/reactionalwheel.cpp",
+  "output": "CMakeFiles/controlsystem.dir/src/reactionalwheel.cpp.o"
+},
+{
+  "directory": "/home/ruslan/work/VSCodeProjects/RiccatiSolver/build",
+  "command": "/usr/bin/g++  -I/home/ruslan/work/libs/eigen -I/home/ruslan/work/VSCodeProjects/RiccatiSolver/src -g -std=gnu++14 -o CMakeFiles/controlsystem.dir/src/reactionalsystem.cpp.o -c /home/ruslan/work/VSCodeProjects/RiccatiSolver/src/reactionalsystem.cpp",
+  "file": "/home/ruslan/work/VSCodeProjects/RiccatiSolver/src/reactionalsystem.cpp",
+  "output": "CMakeFiles/controlsystem.dir/src/reactionalsystem.cpp.o"
+}
+]
