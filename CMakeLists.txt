@@ -10,10 +10,14 @@ set(LIBEIGEN_PATH ~/work/libs/eigen)
 
 include_directories(${LIBEIGEN_PATH}
                     src/
+                    third_party/Riccati_Solver/
                     )
 
 add_executable(controlsystem 
                 src/main.cpp 
-                src/solver.cpp 
+                src/regulators.cpp 
                 src/reactionalwheel.cpp
-                src/reactionalsystem.cpp)
+                src/reactionalsystem.cpp
+                src/satellite.cpp
+                third_party/Riccati_Solver/riccati_solver.cpp
+                )
